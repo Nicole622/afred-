@@ -1,0 +1,2 @@
+# afred-
+Basic helper
